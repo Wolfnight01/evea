@@ -1,0 +1,16 @@
+BOT_TOKEN = '5177149126:AAG496SdDyeb8eZP8QcQco1WQsvtTsIPnDE'
+API_ID = 17317749
+API_HASH = '00ca45b84772802b814919963df9ef0a'
+
+
+# DATOS DEL MOODLE
+USUARIO = 'darian.borges@estudiantes.fbio.uh.cu'
+PASSWORD = 'darian1995'
+USUARIO_ID = 32581
+ZIP_MB = 50
+MOODLE_URL = 'evea.uh.cu'
+OWNER = [5140106953]
+
+# CUENTA DE MEGA
+GMAIL_MEGA = 'yanco148@gmail.com'
+PASS_MEGA = 'yancarlos1482005'
